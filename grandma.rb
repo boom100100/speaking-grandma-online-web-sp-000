@@ -18,6 +18,4 @@ def speak_to_grandma(speak)
   else
   end
 
-
-  end
 end
